@@ -29,7 +29,7 @@ Ther useRequest hook is used to make requests to the Pokemon API.
 10. **Middleware**: SWR
 
 ## Getting Started
-This webapp
+This webapp displays the Pokemon logo at the top along with the 20 first Pokemon entries in the Pokedex. Right below the logo is a button that plays and pauses the Pokemon Red/Blue Route 1 song. 
 
 ## Installation
 1. Make a directory to clone this repository into\
